@@ -1,3 +1,5 @@
+# ERR7 -5
+# ERR1 -5
 # Tarea 1 Microprocesadores y Microcontroladores
 
 from Tarea1 import basic_ops

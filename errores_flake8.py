@@ -1,3 +1,4 @@
+# ERR4
 print("Con el siguiente programa, usted obtendrá algún mensaje dependiendo de dos números que va a ingresar.")
 x=int(input("Digite un número"))
 y=int(input("Digite otro número"))
